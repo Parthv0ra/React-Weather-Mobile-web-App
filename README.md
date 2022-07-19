@@ -1,6 +1,6 @@
 # Weather-App
 
-A weather app developed using DarkSky API. **[Live Demo](https://github.com/Parthv0ra/React-Weather-Mobile-web-App)**
+A weather app developed using openweathermap. **[Live Demo](https://github.com/Parthv0ra/React-Weather-Mobile-web-App)**
 
 #### Features -
 
@@ -16,4 +16,5 @@ A weather app developed using DarkSky API. **[Live Demo](https://github.com/Part
 
 #### ScreenShots
 
-![Screenshots]()
+![Screenshots](Screenshot 2022-07-19 at 4.24.07 PM.png)
+![Screenshots](Screenshot 2022-07-19 at 4.30.08 PM.png)
