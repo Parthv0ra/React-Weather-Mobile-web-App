@@ -19,3 +19,7 @@ A weather app developed using openweathermap. **[Live Demo](https://github.com/P
 
 ![Screenshots](https://github.com/Parthv0ra/React-Weather-Mobile-web-App/blob/main/Screenshots/Screenshot%202022-07-19%20at%204.24.07%20PM.png)
 ![Screenshots](https://github.com/Parthv0ra/React-Weather-Mobile-web-App/blob/main/Screenshots/Screenshot%202022-07-19%20at%204.30.08%20PM.png)
+
+
+https://user-images.githubusercontent.com/87163414/182010444-38c50c54-eb9d-4b0b-a4f4-e051fff45bcf.mov
+
